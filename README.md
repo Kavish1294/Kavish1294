@@ -3,7 +3,7 @@
 I'm a Machine Learning Scientist, with a Physics Ph.D., specializing in building production ML systems on large‑scale experimental data, science‑informed ML modeling, and end‑to‑end data analysis pipelines. <br>
 
 ## About Me
-- Profession: Scientist at a National Lab
+- Profession: Staff Scientist at a National Lab
 - Experience: 9 years 
 - Education: BSc in Physics, PhD in Physics
 
@@ -23,6 +23,18 @@ I'm a Machine Learning Scientist, with a Physics Ph.D., specializing in building
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Kavish1294)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://github.com/Kavish1294)
 
+#### Scientific Computing
+[![ROOT](https://img.shields.io/badge/ROOT-1A6CB3?style=for-the-badge&logo=cern&logoColor=white)](https://github.com/Kavish1294)
+[![HDF5](https://img.shields.io/badge/HDF5-FFD21E?style=for-the-badge&logoColor=black)](https://github.com/Kavish1294)
+[![Uproot](https://img.shields.io/badge/Uproot-EE4C2C?style=for-the-badge)](https://github.com/Kavish1294)
+[![GSL](https://img.shields.io/badge/GNU_Scientific_Library-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/Kavish1294)
+
+#### Simulation & Modeling
+[![GEANT4](https://img.shields.io/badge/GEANT4-1D4F8C?style=for-the-badge&logo=cern&logoColor=white)](https://github.com/Kavish1294)
+[![MCNP6](https://img.shields.io/badge/MCNP6-512BD4?style=for-the-badge)](https://github.com/Kavish1294)
+[![COMSOL](https://img.shields.io/badge/COMSOL_Multiphysics-00ADEF?style=for-the-badge)](https://github.com/Kavish1294)
+[![Monte Carlo](https://img.shields.io/badge/Monte_Carlo_Transport-2C5697?style=for-the-badge)](https://github.com/Kavish1294)
+
 #### Visualization
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Kavish1294)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/Kavish1294)
@@ -32,12 +44,18 @@ I'm a Machine Learning Scientist, with a Physics Ph.D., specializing in building
 [![Slurm](https://img.shields.io/badge/Slurm-2C5697?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Kavish1294)
 [![MPI](https://img.shields.io/badge/MPI-0F3D6E?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Kavish1294)
 
+#### Hardware & Engineering
+[![FPGA](https://img.shields.io/badge/AMD_Zynq_UltraScale+-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/Kavish1294)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](https://github.com/Kavish1294)
+
+
 #### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Kavish1294)
 [![Docker](https://img.shields.io/badge/Docker-0091E2?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Kavish1294)
 [![Apptainer](https://img.shields.io/badge/Apptainer-1D2A3A?style=for-the-badge&logo=linuxcontainers&logoColor=white)](https://github.com/Kavish1294)
 [![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/Kavish1294)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Kavish1294)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Kavish1294)
 
 #### Artificial Intelligence
 
