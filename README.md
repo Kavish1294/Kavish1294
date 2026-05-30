@@ -32,8 +32,7 @@ I'm a Machine Learning Scientist, with a Physics Ph.D., specializing in building
 #### Simulation & Modeling
 [![GEANT4](https://img.shields.io/badge/GEANT4-1D4F8C?style=for-the-badge&logo=cern&logoColor=white)](https://github.com/Kavish1294)
 [![MCNP6](https://img.shields.io/badge/MCNP6-512BD4?style=for-the-badge)](https://github.com/Kavish1294)
-[![COMSOL](https://img.shields.io/badge/COMSOL_Multiphysics-00ADEF?style=for-the-badge)](https://github.com/Kavish1294)
-[![Monte Carlo](https://img.shields.io/badge/Monte_Carlo_Transport-2C5697?style=for-the-badge)](https://github.com/Kavish1294)
+[![COMSOL](https://img.shields.io/badge/COMSOL-00ADEF?style=for-the-badge)](https://github.com/Kavish1294)
 
 #### Visualization
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Kavish1294)
