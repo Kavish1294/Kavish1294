@@ -3,8 +3,7 @@
 I'm a Machine Learning Scientist, with a Physics Ph.D., specializing in building production ML systems on large‑scale experimental data, science‑informed ML modeling, and end‑to‑end data analysis pipelines. <br>
 
 ## About Me
-- Profession: Staff Scientist at a National Lab
-- Experience: 9 years 
+- Profession: Staff ML Scientist
 - Education: BSc in Physics, PhD in Physics
 
 ## Skills
