@@ -34,12 +34,11 @@ I'm a Machine Learning Scientist, with a Physics Ph.D., specializing in building
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Kavish1294)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Kavish1294)
 
-#### Distributed & HPC
+#### Distributed & High Performance Computing
 [![Slurm](https://img.shields.io/badge/Slurm-2C5697?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Kavish1294)
 [![MPI](https://img.shields.io/badge/MPI-0F3D6E?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Kavish1294)
 
 #### Large Language Model Usage
-
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://github.com/Kavish1294)
 
 <!--
