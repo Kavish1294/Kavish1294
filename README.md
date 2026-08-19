@@ -34,10 +34,12 @@ I'm a Scientist, with a Physics Ph.D., specializing in building production machi
 
 ### High-Performance & Parallel Computing
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/Kavish1294)
+[![CuPy](https://img.shields.io/badge/CuPy-2E8B57?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/Kavish1294)
 [![HPC/Slurm](https://img.shields.io/badge/HPC%2FSlurm-2C5697?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Kavish1294)
 [![MPI](https://img.shields.io/badge/MPI-0F3D6E?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Kavish1294)
 [![OpenMP](https://img.shields.io/badge/OpenMP-004080?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Kavish1294)
 [![Apptainer](https://img.shields.io/badge/Apptainer-0B5394?style=for-the-badge)](https://github.com/Kavish1294)
+[![Spack](https://img.shields.io/badge/Spack-1A5276?style=for-the-badge)](https://github.com/Kavish1294)
 
 ### Developer Tooling
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Kavish1294)
