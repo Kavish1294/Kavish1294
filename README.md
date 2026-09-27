@@ -1,7 +1,7 @@
 ## About Me
 I'm a Scientist, with a Physics Ph.D., specializing in building production machine learning systems on large‑scale experimental data, developing physics‑informed machine learning models, and engineering fully end‑to‑end data analysis pipelines. <br>
 
-## List of tech I use most of the time
+## Tech I use in my work
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Kavish1294)
