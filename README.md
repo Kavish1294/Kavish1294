@@ -11,8 +11,10 @@ I'm a Scientist, with a Physics Ph.D., specializing in building production machi
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/Kavish1294)
 
 ### Machine Learning & Statistical Modeling
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/Kavish1294)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Kavish1294)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/Kavish1294)
+[![LibTorch](https://img.shields.io/badge/LibTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/Kavish1294)
+[![mlpack](https://img.shields.io/badge/mlpack-4A7EBB?style=for-the-badge)](https://github.com/Kavish1294)
 [![statsmodels](https://img.shields.io/badge/statsmodels-2C5F8A?style=for-the-badge)](https://github.com/Kavish1294)
 
 ### Scientific Computing & Data Wrangling
@@ -20,6 +22,7 @@ I'm a Scientist, with a Physics Ph.D., specializing in building production machi
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://github.com/Kavish1294)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Kavish1294)
 [![HDF5](https://img.shields.io/badge/HDF5-0075A8?style=for-the-badge)](https://github.com/Kavish1294)
+[![GNU Scientific Library](https://img.shields.io/badge/GNU%20Scientific%20Library-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/Kavish1294)
 
 ### Data Visualization
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://github.com/Kavish1294)
