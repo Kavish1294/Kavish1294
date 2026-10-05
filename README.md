@@ -9,6 +9,7 @@ I'm a Scientist, with a Physics Ph.D., specializing in building production machi
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)](https://github.com/Kavish1294)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/Kavish1294)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/Kavish1294)
+[![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/Kavish1294)
 
 ### Machine Learning & Statistical Modeling
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Kavish1294)
