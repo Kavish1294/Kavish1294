@@ -1,5 +1,5 @@
 ## About Me
-I'm a Scientist, with a Physics Ph.D., specializing in building production machine learning systems on large‑scale experimental data, developing physics‑informed machine learning models, and engineering fully end‑to‑end data analysis pipelines. <br>
+I'm a Machine Learning Scientist with a Ph.D. in Physics and 8+ years across Dept. of Energy national labs. I specialize in scientific machine learning, deep learning (PyTorch), computer vision, anomaly detection, and uncertainty quantification on large-scale, noisy, multimodal data. My work includes physics-informed neural networks (PINNs) and neural surrogate modeling for Monte Carlo simulation, Bayesian inference (Gaussian processes, MCMC), inverse problems and 3D reconstruction, and feature engineering and feature selection.  <br>
 
 ## Tech I use in my work
 
@@ -33,8 +33,7 @@ I'm a Scientist, with a Physics Ph.D., specializing in building production machi
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://github.com/Kavish1294)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/Kavish1294)
 
-### LLM Systems
-[![Open-Source LLMs](https://img.shields.io/badge/Open--Source%20LLMs-5A3E9B?style=for-the-badge)](https://github.com/Kavish1294)
+### LLM Automated Workflows
 [![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white)](https://github.com/Kavish1294)
 
 ### Cloud & APIs
